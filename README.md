@@ -1,6 +1,6 @@
 ## Hi !👋 
 I'm Miarinaly (Mys1337),
-A developer at the dawn of a long and fun journey.
+A developer on a journey.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
