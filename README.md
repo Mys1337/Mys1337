@@ -18,3 +18,6 @@ A developer on a journey.
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Mys1337)
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/d4dfcccc-68ea-4783-9f45-62e3fc4a9273/thumbnail" style="width:20vw">
+</p>
