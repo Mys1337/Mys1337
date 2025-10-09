@@ -12,7 +12,7 @@ A developer on a journey.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flutter/flutter-original.svg" width="40" height="40" alt="MySQL" />
+  <!-- <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flutter/flutter-original.svg" width="40" height="40" alt="flutter" /> -->
 
   
 </p>
